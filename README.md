@@ -20,5 +20,5 @@ We utilize remote-sensing satellite imagery and ground-based sensor data to pred
 
 # Installation Instructions
 
-To run our code, clone this repository and ensure all supporting files are within the same hierarchy structure of the Jupyter Notebook file. We also save several larger files including the raw dataset files externally, as it exceeds the Github storage limit. Ensure that these dataset files are also downloaded and included within the same directory as the Jupyter notebook.
+To run our code, clone this repository and ensure all supporting files are within the same hierarchy structure of the Jupyter Notebook file. We also save several larger files including the raw dataset files externally, as it exceeds the Github storage limit. (https://drive.google.com/drive/folders/1DOlfPurF2iOBlXsqIVp9wTvhGVGiCC9I?usp=sharing) Ensure that these dataset files are also downloaded and included within the same directory as the Jupyter notebook.
 
