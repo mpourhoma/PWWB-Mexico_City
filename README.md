@@ -10,6 +10,8 @@ We utilize remote-sensing satellite imagery and ground-based sensor data to pred
 
 ```MexicoCityGridPred.ipynb``` is the main code file. This Jupyter notebook contains the raw code and documentation of our preprocessing, training, prediction, and visualization pipeline. 
 
+```MexicoCityGridPredictions.mp4``` is a 24 frame visualization for hourly PM2.5 predictions on January 1, 2021 in Mexico City. 
+
 ```sitelist.csv``` is a reference table of the ground-level meteorological and air pollution sensors, their latitude and longitude coordinates, and their corresponding (x,y) coordinates within the 75x75 geographical grid we construct. 
 
 ```Images``` contains various supporting description images used in the Jupyter notebook.
